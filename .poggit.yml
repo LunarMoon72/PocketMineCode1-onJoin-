@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LunarMoon72/PocketMineCode1-onJoin-
+build-by-default: true
+branches:
+- main
+projects:
+  PocketMineCode1-onJoin-:
+    path: ""
+...
